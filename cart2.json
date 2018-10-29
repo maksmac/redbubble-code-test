@@ -1,0 +1,27 @@
+[
+  {
+    "product-type": "hoodie",
+    "options": {
+      "size": "small",
+      "colour": "dark",
+      "print-location": "front"
+    },
+    "artist-markup": 20,
+    "quantity": 2
+  },
+  {
+    "product-type": "sticker",
+    "options": {
+      "size": "small"
+    },
+    "artist-markup": 10,
+    "quantity": 1
+  },
+  {
+    "product-type": "leggings",
+    "options": {
+    },
+    "artist-markup": 30,
+    "quantity": 1
+  }
+]
